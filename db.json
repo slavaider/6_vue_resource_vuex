@@ -1,0 +1,43 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "car_name": "Mazda"
+    },
+    {
+      "name": "",
+      "year": 2018,
+      "id": 2
+    },
+    {
+      "name": "Ford",
+      "year": 2000,
+      "id": 3
+    },
+    {
+      "name": "wada",
+      "year": 3123,
+      "id": 4
+    },
+    {
+      "name": "asdasda",
+      "year": 2018,
+      "id": 5
+    },
+    {
+      "name": "lol",
+      "year": 2018,
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
